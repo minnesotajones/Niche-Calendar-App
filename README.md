@@ -1,6 +1,6 @@
 # Niche Holiday Calender
 
-## Don't Panic and Grab Your Towel, or Honey Can, or Whatever.
+## This is a repost of a personal course project, due to the original one being private with school server
 
 This is a student project for course CPSC210. It primarily 
 does three things.
